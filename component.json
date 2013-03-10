@@ -1,7 +1,7 @@
 {
   "name": "jquery-mobile-angular-adapter",
   "version": "1.2.1",
-  "main": "compiled/jquery-mobile-angular-adapter.js",
+  "main": "./compiled/jquery-mobile-angular-adapter.js",
   "dependencies": {
     "jquery": ">=1.7.1",
     "jquery-mobile": "1.2.1",
